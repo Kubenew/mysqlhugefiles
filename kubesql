@@ -885,8 +885,8 @@ skin_open();
 <!-- Start Paypal donation code -->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_xclick" />
-<input type="hidden" name="business" value="alexey@ozerov.de" />
-<input type="hidden" name="item_name" value="BigDump Donation" />
+<input type="hidden" name="business" value="prana222@yahoo.com" />
+<input type="hidden" name="item_name" value=" Donation" />
 <input type="hidden" name="no_shipping" value="1" />
 <input type="hidden" name="no_note" value="0" />
 <input type="hidden" name="tax" value="0" />
