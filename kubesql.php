@@ -97,7 +97,7 @@ $upload_dir = dirname(__FILE__);
 if ($ajax)
   ob_start();
 
-define ('VERSION','0.36b');
+define ('VERSION','0.37b');
 define ('DATA_CHUNK_LENGTH',16384);  // How many chars are read per time
 define ('TESTMODE',false);           // Set to true to process the file without actually accessing the database
 define ('BIGDUMP_DIR',dirname(__FILE__));
